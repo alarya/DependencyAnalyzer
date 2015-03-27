@@ -1,0 +1,6 @@
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeType\bin\Debug\ThreadSafeType.exe.config
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeType\bin\Debug\ThreadSafeType.exe
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeType\bin\Debug\ThreadSafeType.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeType\obj\Debug\ThreadSafeType.exe
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeType\obj\Debug\ThreadSafeType.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeType\obj\Debug\ThreadSafeType.csprojResolveAssemblyReference.cache

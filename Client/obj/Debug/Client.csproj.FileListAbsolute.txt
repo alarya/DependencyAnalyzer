@@ -1,0 +1,12 @@
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\Client.exe.config
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\Client.exe
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\Client.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\BlockingQueue.dll
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\ICommunication.dll
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\Utilities.exe
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\BlockingQueue.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\ICommunication.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\bin\Debug\Utilities.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\obj\Debug\Client.exe
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\Client\obj\Debug\Client.pdb

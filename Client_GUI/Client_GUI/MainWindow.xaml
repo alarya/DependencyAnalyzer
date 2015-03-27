@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Client_GUI.MainWindow"
+        Title="Dependency Analyzer" Height="661.5" Width="783">
+    <Grid HorizontalAlignment="Left" Height="595" Margin="28,26,0,0" VerticalAlignment="Top" Width="726">
+        <Label x:Name="___Listen1___http___localhos____" Content="http://localhost" HorizontalAlignment="Left" Margin="12,10,0,0" VerticalAlignment="Top" Height="35" Width="153"/>
+        <TextBox x:Name="ListenPort" HorizontalAlignment="Left" Height="23" Margin="149,14,0,0" TextWrapping="Wrap" Text="8082" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="___Listen___Button_" Content="Listen" HorizontalAlignment="Left" Margin="322,17,0,0" VerticalAlignment="Top" Width="75" Click="___Listen___Button__Click"/>
+        <Label Content="Server 0 :" HorizontalAlignment="Left" Margin="23,60,0,0" VerticalAlignment="Top" Height="31" Width="69"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="52,91,0,0" VerticalAlignment="Top" Width="53" Height="27"/>
+        <TextBox x:Name="Server0Addr" HorizontalAlignment="Left" Height="27" Margin="149,91,0,0" TextWrapping="Wrap" Text="http://localhost" VerticalAlignment="Top" Width="120" TextChanged="___Server0Addr__TextChanged"/>
+        <Label Content="Port" HorizontalAlignment="Left" Margin="300,91,0,0" VerticalAlignment="Top" Height="27" Width="34"/>
+        <TextBox x:Name="Server0Port" HorizontalAlignment="Left" Height="27" Margin="353,91,0,0" TextWrapping="Wrap" Text="8080" VerticalAlignment="Top" Width="126"/>
+        <Button x:Name="___Connect0___Connect_" Content="Connect" HorizontalAlignment="Left" Margin="508,91,0,0" VerticalAlignment="Top" Width="77" Height="27" Click="___Connect0___Connect__Click"/>
+        <Label Content="Server 1 :" HorizontalAlignment="Left" Margin="23,133,0,0" VerticalAlignment="Top" Width="69"/>
+        <TextBox x:Name="Server1Addr" HorizontalAlignment="Left" Height="26" Margin="149,165,0,0" TextWrapping="Wrap" Text="http://localhost" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="52,162,0,0" VerticalAlignment="Top" Width="53"/>
+        <Label Content="Port" HorizontalAlignment="Left" Margin="300,165,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,-0.115" Width="34"/>
+        <TextBox x:Name="Server1Port" HorizontalAlignment="Left" Height="29" Margin="353,162,0,0" TextWrapping="Wrap" Text="8081" VerticalAlignment="Top" Width="126"/>
+        <Button x:Name="Connect1" Content="Connect" HorizontalAlignment="Left" Margin="508,162,0,0" VerticalAlignment="Top" Width="77" Height="29" Click="Button_Click_1"/>
+        <CheckBox x:Name="Server0chk" Content="Server 0" HorizontalAlignment="Left" Margin="34,246,0,0" VerticalAlignment="Top" Checked="___Server0___CheckBox__Checked"/>
+        <CheckBox x:Name="Server1chk" Content="Server 1" HorizontalAlignment="Left" Margin="165,246,0,0" VerticalAlignment="Top" Checked="CheckBox_Checked"/>
+        <Grid x:Name="CommandOptions" HorizontalAlignment="Left" Height="34" Margin="34,277,0,0" VerticalAlignment="Top" Width="363">
+            <RadioButton x:Name="ProjectList" Content="Project List" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="PackageDep" Content="Package Dep" HorizontalAlignment="Left" Margin="120,9,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="Relationships" Content="Relationships" HorizontalAlignment="Left" Margin="231,10,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Button Content="Send Request" HorizontalAlignment="Left" Margin="421,279,0,0" VerticalAlignment="Top" Width="98" Height="28" Click="Button_Click"/>
+        <ListBox x:Name="rsltServer0" HorizontalAlignment="Left" Height="218" Margin="12,354,0,0" VerticalAlignment="Top" Width="308"/>
+        <ListBox x:Name="rsltServer1" HorizontalAlignment="Left" Height="218" Margin="392,354,0,0" VerticalAlignment="Top" Width="312"/>
+        <Label Content="Result from Server 0" HorizontalAlignment="Left" Margin="23,323,0,0" VerticalAlignment="Top" Width="142"/>
+        <Label Content="Result from Server 1" HorizontalAlignment="Left" Margin="404,323,0,0" VerticalAlignment="Top" Width="130"/>
+    </Grid>
+</Window>

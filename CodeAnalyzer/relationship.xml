@@ -1,0 +1,332 @@
+﻿<Relationship analysis>
+  <File>E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Parser\IRuleandAction.cs</File>
+  <Type 1>AAction</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>IAction</Type 2>
+  <Type 1>AAction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>ARule</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>IAction</Type 2>
+  <Type 1>ARule</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>IRule</Type 2>
+  <Type 1>ARule</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <File>E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Parser\Parser.cs</File>
+  <Type 1>Parser</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>IRule</Type 2>
+  <Type 1>Parser</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>TestParser</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>TestParser</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>BuildCodeAnalyzer</Type 2>
+  <Type 1>TestParser</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>TestParser</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Relationships</Type 2>
+  <File>E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Parser\RulesAndActions.cs</File>
+  <Type 1>Aggfound</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>Aggfound</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Relationships</Type 2>
+  <Type 1>Aggfound</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>Aggfound</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>Aggfound</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>Braceless</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>Braceless</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>Braceless</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Parser</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>PushStack</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectNamespace</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectClass</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectFunction</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Braceless</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectbracelessScope</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectAnonymousScope</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectLeavingScope</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>PopStack</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Aggfound</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Inheritancefound</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Usingaction</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CompositionAction</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectInheritance</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectAggregation</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectUsing</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>DetectComposition</Type 2>
+  <Type 1>BuildCodeAnalyzer</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>CompositionAction</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>CompositionAction</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Relationships</Type 2>
+  <Type 1>CompositionAction</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>CompositionAction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>CompositionAction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectAggregation</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectAggregation</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectAggregation</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectAnonymousScope</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectAnonymousScope</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectAnonymousScope</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectbracelessScope</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectbracelessScope</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectbracelessScope</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectClass</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectClass</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectClass</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectComposition</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>DetectComposition</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectComposition</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectComposition</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectFunction</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectFunction</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectFunction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectInheritance</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectInheritance</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectInheritance</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectLeavingScope</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectLeavingScope</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectNamespace</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectNamespace</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectNamespace</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectUsing</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>DetectUsing</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>ARule</Type 2>
+  <Type 1>DetectUsing</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>FinalRelationships</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Relationships</Type 2>
+  <Type 1>Inheritancefound</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>Inheritancefound</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Relationships</Type 2>
+  <Type 1>Inheritancefound</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>Inheritancefound</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>Inheritancefound</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>PopStack</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>PopStack</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>PopStack</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>PopStack</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>PopStack</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>PopStack</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>Print</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>Print</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>Print</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>PrintFunction</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>PrintFunction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>PrintFunction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>PushStack</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>PushStack</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>PushStack</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>PushStack</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <Type 1>Repository</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>Repository</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>Usingaction</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem</Type 2>
+  <Type 1>Usingaction</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Relationships</Type 2>
+  <Type 1>Usingaction</Type 1>
+  <Relationship>Inherits</Relationship>
+  <Type 2>AAction</Type 2>
+  <Type 1>Usingaction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>Repository</Type 2>
+  <Type 1>Usingaction</Type 1>
+  <Relationship>Uses</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <File>E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Parser\ScopeStack.cs</File>
+  <Type 1>Test</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>Elem1</Type 2>
+  <Type 1>Test</Type 1>
+  <Relationship>Composes</Relationship>
+  <Type 2>Elem1</Type 2>
+  <File>E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Parser\Semi.cs</File>
+  <Type 1>CSemiExp</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CToker</Type 2>
+  <Type 1>CSemiExp</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CSemiExp</Type 2>
+  <File>E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Parser\Toker.cs</File>
+  <Type 1>CToker</Type 1>
+  <Relationship>aggregates</Relationship>
+  <Type 2>CToker</Type 2>
+  <File>E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Parser\Properties\AssemblyInfo.cs</File>

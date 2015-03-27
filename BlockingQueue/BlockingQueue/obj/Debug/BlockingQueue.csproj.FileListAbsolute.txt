@@ -1,0 +1,5 @@
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\BlockingQueue\BlockingQueue\bin\Debug\BlockingQueue.dll.config
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\BlockingQueue\BlockingQueue\bin\Debug\BlockingQueue.dll
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\BlockingQueue\BlockingQueue\bin\Debug\BlockingQueue.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\BlockingQueue\BlockingQueue\obj\Debug\BlockingQueue.dll
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\BlockingQueue\BlockingQueue\obj\Debug\BlockingQueue.pdb

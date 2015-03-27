@@ -1,0 +1,12 @@
+E:\Syracuse(FALL2014)\SMA\Project-2Help\CmdLineParser\bin\Debug\CmdLineParser.exe.config
+E:\Syracuse(FALL2014)\SMA\Project-2Help\CmdLineParser\bin\Debug\CmdLineParser.exe
+E:\Syracuse(FALL2014)\SMA\Project-2Help\CmdLineParser\bin\Debug\CmdLineParser.pdb
+E:\Syracuse(FALL2014)\SMA\Project-2Help\CmdLineParser\obj\Debug\CmdLineParser.exe
+E:\Syracuse(FALL2014)\SMA\Project-2Help\CmdLineParser\obj\Debug\CmdLineParser.pdb
+E:\Syracuse(FALL2014)\SMA\Project-2Help\CmdLineParser\obj\Debug\CmdLineParser.csprojResolveAssemblyReference.cache
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\CmdLineParser\bin\Debug\CmdLineParser.dll.config
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\CmdLineParser\bin\Debug\CmdLineParser.dll
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\CmdLineParser\bin\Debug\CmdLineParser.pdb
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\CmdLineParser\obj\Debug\CmdLineParser.csprojResolveAssemblyReference.cache
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\CmdLineParser\obj\Debug\CmdLineParser.dll
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\CmdLineParser\obj\Debug\CmdLineParser.pdb

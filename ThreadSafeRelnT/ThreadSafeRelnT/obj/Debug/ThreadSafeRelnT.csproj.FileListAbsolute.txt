@@ -1,0 +1,6 @@
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeRelnT\ThreadSafeRelnT\bin\Debug\ThreadSafeRelnT.exe.config
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeRelnT\ThreadSafeRelnT\bin\Debug\ThreadSafeRelnT.exe
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeRelnT\ThreadSafeRelnT\bin\Debug\ThreadSafeRelnT.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeRelnT\ThreadSafeRelnT\obj\Debug\ThreadSafeRelnT.exe
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeRelnT\ThreadSafeRelnT\obj\Debug\ThreadSafeRelnT.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ThreadSafeRelnT\ThreadSafeRelnT\obj\Debug\ThreadSafeRelnT.csprojResolveAssemblyReference.cache

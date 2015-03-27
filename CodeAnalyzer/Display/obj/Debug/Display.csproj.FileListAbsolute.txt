@@ -1,0 +1,16 @@
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\bin\Debug\Display.exe.config
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\bin\Debug\Display.exe
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\bin\Debug\Display.pdb
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\bin\Debug\Parser.exe
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\bin\Debug\Parser.pdb
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\obj\Debug\Display.exe
+E:\Syracuse(FALL2014)\SMA\Project-2Help\Display\obj\Debug\Display.pdb
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\bin\Debug\Display.exe.config
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\bin\Debug\Display.exe
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\bin\Debug\Display.pdb
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\bin\Debug\Parser.dll
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\bin\Debug\Parser.pdb
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\obj\Debug\Display.csprojResolveAssemblyReference.cache
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\obj\Debug\Display.exe
+E:\Syracuse(FALL2014)\SMA\CodeAnalyzer\Display\obj\Debug\Display.pdb

@@ -1,0 +1,5 @@
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ServiceLibrary\bin\Debug\ICommunication.dll
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ServiceLibrary\bin\Debug\ICommunication.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ServiceLibrary\obj\Debug\ICommunication.dll
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ServiceLibrary\obj\Debug\ICommunication.pdb
+E:\Syracuse(FALL2014)\SMA\Pr#4\Dependency_Analyzer\ServiceLibrary\obj\Debug\ICommunication.csprojResolveAssemblyReference.cache
